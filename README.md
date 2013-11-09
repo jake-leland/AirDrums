@@ -1,7 +1,7 @@
 AirDrums
 ========
 
-(Kinect) A Virtual Drumset
+(Kinect) A Virtual Drumset.
 
 Note: This is a [Processing](http://processing.org/) sketch.
 
